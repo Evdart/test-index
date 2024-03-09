@@ -1,1 +1,1 @@
-alert('Hi Big boss')
+alert('Привет мир!')
