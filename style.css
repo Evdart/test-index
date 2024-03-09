@@ -1,5 +1,6 @@
 body {
-    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
-    color: #ffffff;
+    background: #1A9BA4;
+    background: linear-gradient(135deg, #1A9BA4, #0DE23B);
+    color: #000000;
     font-family:Arial, Helvetica, sans-serif
 }
